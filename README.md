@@ -110,9 +110,7 @@ Here are some ideas to get you started:
   <a href="https://www.quora.com/profile/Badal-Kumar-1837">
     <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" />
   </a>&nbsp;&nbsp;
-  <a href="https://www.linstagram.com/badalsde/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  
   <a href="https://gitlab.com/badalsde">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
   </a>&nbsp;&nbsp;
