@@ -21,7 +21,7 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=badalsde&show_icons=true&theme=radical"></a>
+  <a href="#"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=badalsde&theme=radical"></a>
 </p>
 
 <p align='center'>
@@ -91,7 +91,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<p align='center'>
+  <a href="#"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=badalsde&theme=tokyo-night"></a>
+</p>
+<p align='center'>
 <a href="https://medium.com/@badalsde/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
   </a>&nbsp;&nbsp;
@@ -110,7 +113,7 @@ Here are some ideas to get you started:
   <a href="https://www.quora.com/profile/Badal-Kumar-1837">
     <img src="https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white" />
   </a>&nbsp;&nbsp;
-  
-  <a href="https://gitlab.com/badalsde">
+<a href="https://gitlab.com/badalsde">
     <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>
+</p>
