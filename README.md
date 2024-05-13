@@ -4,7 +4,7 @@
 </h1>
 
 <p align='center'>
-  I'm currently working as a System Engineer at Infosys.
+  I'm currently working as a Senior System Engineer at Infosys.
 </p>
 
 <p align='center'>
@@ -26,15 +26,14 @@
 
 <p align='center'>
   :computer: My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-%230078D6.svg?&style=for-the-badge&logo=Linux&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAM-8GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/nvidia-gtx%201650-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAM-12GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
 <p align='center'> Skills <br><br>
   
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=blue" />
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> 
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /><br><br>
