@@ -19,9 +19,13 @@
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />        
   </a>
 </p>
-
+<h2 align='center'>GitHub Profile Summary Cards</h2>
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=badalsde&theme=radical"></a>
+  <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=badalsde&theme=radical"></a>
+</p>
+<p align='center'>
+  <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=badalsde&theme=radical"></a>
+  <a href="#"><img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=badalsde&theme=radical"></a>
 </p>
 
 <p align='center'>
@@ -85,11 +89,9 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Java technologies.
 - 🌱 I’m currently learning cloud technologies(AWS, AZURE, GCP)
-- 👯 I’m looking to collaborate on GitHub...
+- 👯 I’m looking to collaborate on GitHub..
+- ...
 
-<p align='center'>
-  <a href="#"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=badalsde&theme=tokyo-night"></a>
-</p>
 <p align='center'>
 <a href="https://medium.com/@badalsde/">
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
