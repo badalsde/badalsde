@@ -2,10 +2,10 @@
 <h1 align='center'>
   Hi there :pray: I'm Badal :man_technologist: !
 </h1>
-
 <p align='center'>
-  I'm currently working as a Senior System Engineer at Infosys.
+  I'm currently working as a Senior System Engineer at Infosys 🇮🇳.
 </p>
+<p align='center'>I am a Java developer and having knowledge of Python, Spring Boot framework, Microservices, AWS, CI/CD tools.
 
 <p align='center'>
   
@@ -26,21 +26,20 @@
 
 <p align='center'>
   :computer: My workspace<br/><br/>
-  <img src="https://img.shields.io/badge/Linux-%230078D6.svg?&style=for-the-badge&logo=Linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ubuntu-%230078D6.svg?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
   <img src="https://img.shields.io/badge/intel-core%20i5%2010th-%230071C5.svg?&style=for-the-badge&logo=intel&logoColor=white" />
   <img src="https://img.shields.io/badge/RAM-12GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
 </p>
 
 <p align='center'> Skills <br><br>
   
-  <img src="https://img.shields.io/badge/Java-FFD43B?style=for-the-badge&logo=java&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" /> 
-  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" /><br><br>
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /><br><br>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white"/><br><br>
+  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka" />
+  <img src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" /><br><br>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
@@ -48,10 +47,10 @@
   <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" /><br><br>
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white" />
   <img src="https://img.shields.io/badge/TeamCity-000000?style=for-the-badge&logo=TeamCity&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-%230071C5.svg?&style=for-the-badge&logoColor=Jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
 
 </p>
 
@@ -68,28 +67,26 @@
 
 ## Experience
   
-- :technologist:**System Engineer**\
+- :technologist:**Senior System Engineer**\
   :calendar: 09/2021 - present\
   :office: **Infosys Limited** - Pune
   
 - :technologist:**Python Developer**\
   :calendar: 07/2021 - 08/2021\
   :office: **RodadCast Technology** -New Delhi
-
+  
+- :technologist:**Associate Analyst**\
+  :calendar: 06/2021 - 07/2021\
+  :office: **Global Logic** -Gurugram
 </details>
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Java technologies.
+- 🌱 I’m currently learning cloud technologies(AWS, AZURE, GCP)
+- 👯 I’m looking to collaborate on GitHub...
+
 <p align='center'>
   <a href="#"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=badalsde&theme=tokyo-night"></a>
 </p>
