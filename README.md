@@ -5,7 +5,7 @@
 <p align='center'>
   I'm currently working as a Senior System Engineer at Infosys 🇮🇳.
 </p>
-<p align='center'>I am a Java developer and having knowledge of Python, Spring Boot framework, Microservices, AWS, CI/CD tools.
+<p align='center'>I am a Java developer and having knowledge of Spring Boot framework, Microservices, Python, AWS, CI/CD tools.
 
 <p align='center'>
   
