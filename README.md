@@ -2,10 +2,10 @@
   Hi there 🙏 I'm Badal 👨‍💻 !
 </h1>
 <p align="center">
-  I'm currently working as a Senior System Engineer at Infosys 🇮🇳.
+  I'm currently working as a Azure Data Engineer at Deloitte 🇮🇳.
 </p>
 <p align="center">
-  I am an Azure Big Data Engineer with expertise in PySpark, Python, Databricks, SQL, Azure, AWS, and CI/CD tools.
+  I am an Azure Data Engineer with expertise in PySpark, Databricks, Python, SQL, Azure Data Factory, Data Lake, Data Warehouse, Delta Lake and CI/CD tools.
 </p>
 
 <p align="center">
@@ -94,23 +94,27 @@
 
 ## Experience
   
-- :technologist:**Senior Systems Engineer**\
-  :calendar: 09/2021 - present\
+- :technologist: **Consultant**\
+  :calendar: 03/20255 - present\
+  :office: **Deloitte** - Gurugram
+
+- :technologist: **Senior Systems Engineer**\
+  :calendar: 09/2021 - 03/2025\
   :office: **Infosys Limited** - Pune
   
-- :technologist:**Python Developer**\
+- :technologist: **Python Developer**\
   :calendar: 07/2021 - 08/2021\
-  :office: **RodadCast Technology** -New Delhi
+  :office: **RodadCast Technology** - New Delhi
   
-- :technologist:**Associate Analyst**\
+- :technologist: **Associate Analyst**\
   :calendar: 06/2021 - 07/2021\
-  :office: **Global Logic** -Gurugram
+  :office: **Global Logic** - Gurugram
 </details>
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on Big Data technologies(Spark, Databricks).
+- 🔭 I’m currently working on Big Data technologies(Spark, Databricks, ADF, ADLS Gen2).
 - 🌱 I’m currently learning cloud technologies(AWS, AZURE, GCP)
 - 👯 I’m looking to collaborate on GitHub..
 - ...
