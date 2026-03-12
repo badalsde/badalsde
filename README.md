@@ -90,12 +90,12 @@
 
 - :man_student: **Computer Science & Engineering**\
   :calendar: 2016 - 2020\
-  :school: **Gyan Ganga Collge of Technology** - Jabalpur
+  :school: **Gyan Ganga College of Technology** - Jabalpur
 
 ## Experience
   
 - :technologist: **Consultant**\
-  :calendar: 03/20255 - present\
+  :calendar: 03/2025 - present\
   :office: **Deloitte** - Gurugram
 
 - :technologist: **Senior Systems Engineer**\
@@ -117,7 +117,11 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on Big Data technologies(Spark, Databricks, ADF, ADLS Gen2).
 - 🌱 I’m currently learning cloud technologies(AWS, AZURE, GCP)
 - 👯 I’m looking to collaborate on GitHub..
-- ...
+- 🚀 Currently Learning
+  - Generative AI
+  - LangChain
+  - Retrieval Augmented Generation (RAG)
+  - LLM Applications
 
 <p align='center'>
 <a href="https://medium.com/@badalsde/">
